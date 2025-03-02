@@ -21,25 +21,24 @@ A simple WhatsApp chatbot built using Node.js and the `whatsapp-web.js` library.
 - [Contributing](#contributing)
 - [License](#license)
 
+```
 ## Installation
 
-1. Clone the repository:
+#### 1 Clone the repository:
 
-bash
-   git clone https://github.com/manojsingh00963/WhatsApp-Chat-Bot.git
+> git clone https://github.com/manojsingh00963/WhatsApp-Chat-Bot.git 
 
 
-```
  
-## Install the necessary dependencies:
+## 2 Install the necessary dependencies:
 
 > ``` npm install qrcode-terminal whatsapp-web.js ```
 
 > ``` npm install nodemon ```
 
-# Usage
+## Usage
 
-1) Start the bot by running:
+### 1) Start the bot by running:
 
 > **npm start**
 
@@ -49,7 +48,7 @@ bash
 
 3) The bot will now respond to messages with predefined conversational replies.
 
-## Development Mode
+### 2) Development Mode
 For development purposes, you can use nodemon to automatically restart the bot when you make changes:
 
 > npm run dev
